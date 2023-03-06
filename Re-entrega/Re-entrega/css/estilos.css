@@ -1,0 +1,113 @@
+header h1 {
+    color: aquamarine;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    top: 50px;
+}
+
+.header {
+    position: sticky top 0;
+}
+
+.Quienes_somos {
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    width: 220px;
+    height: 50px;
+}
+
+
+.navfooter {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 35px 0;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.contacto {
+    text-align: center;
+
+}
+
+.Cuencos {
+    color: aliceblue;
+}
+
+.Porta_sahumerios {
+    color: aliceblue;
+}
+
+.Mate_de_madera {
+    color: aliceblue;
+}
+
+.Yerberas {
+    color: aliceblue;
+}
+
+.inicio {
+    flood-color: #1F2023;
+}
+
+a {
+    text-decoration: none;
+
+    color: rgb(245, 239, 239);
+    font-weight: bold;
+}
+
+.color_contacto {
+    color: aquamarine;
+}
+
+nav {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 35px 0;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    background: #1F2023;
+}
+
+.descripción {
+    background: #1F2023;
+    padding: 35px 0;
+    margin: auto;
+    width: 80%;
+    align-items: center;
+}
+
+
+.fotomate {
+    text-align: center;
+}
+
+body {
+    background-image: url(../img/logitoborroso.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pasos_para_el_curado {
+    text-decoration: none;
+    color: aliceblue;
+}
